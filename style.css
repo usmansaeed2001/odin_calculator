@@ -1,0 +1,8 @@
+.calculator-container {
+    display: grid;
+}
+
+.calculator-boundary {
+    background-color: black;
+    display: grid;
+}
